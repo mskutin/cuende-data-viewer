@@ -1,0 +1,1169 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6363948075-6363948074",
+                "intensity": 81.208710997726143,
+                "score": 1,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7980127,
+                        -1.2971242
+                    ],
+                    [
+                        36.7980389,
+                        -1.2971436
+                    ],
+                    [
+                        36.7980523,
+                        -1.2971724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6363948073-295815080",
+                "intensity": 81.208710997726115,
+                "score": 1,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7980523,
+                        -1.2971724
+                    ],
+                    [
+                        36.7981039,
+                        -1.2973662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "30209213-3183486934",
+                "intensity": 1152.1330509496795,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.80029,
+                        -1.2951527
+                    ],
+                    [
+                        36.8001905,
+                        -1.2951718
+                    ],
+                    [
+                        36.7999861,
+                        -1.2951355
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1140752455-30209214",
+                "intensity": 1152.1330509496802,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7999861,
+                        -1.2951355
+                    ],
+                    [
+                        36.7998152,
+                        -1.2950931
+                    ],
+                    [
+                        36.7997364,
+                        -1.2950746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1140752452-6364310981",
+                "intensity": 1152.1330509496781,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7997364,
+                        -1.2950746
+                    ],
+                    [
+                        36.7996153,
+                        -1.2950413
+                    ],
+                    [
+                        36.7993101,
+                        -1.2949704
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1085564136-6364361974",
+                "intensity": 1148.1786044321548,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7993101,
+                        -1.2949704
+                    ],
+                    [
+                        36.7991922,
+                        -1.2949454
+                    ],
+                    [
+                        36.7990127,
+                        -1.2949298
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "3512156234-6370203189",
+                "intensity": 2305.3209983276988,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8244163,
+                        -1.2998303
+                    ],
+                    [
+                        36.8245062,
+                        -1.2997433
+                    ],
+                    [
+                        36.8245927,
+                        -1.2996957
+                    ],
+                    [
+                        36.8246637,
+                        -1.2996677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "7192176377-6330678285",
+                "intensity": 2305.3209983276975,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8246637,
+                        -1.2996677
+                    ],
+                    [
+                        36.824698,
+                        -1.2996542
+                    ],
+                    [
+                        36.8251381,
+                        -1.2995498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6353557049-8523086489",
+                "intensity": 2278.0508157580925,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8251381,
+                        -1.2995498
+                    ],
+                    [
+                        36.82567,
+                        -1.2994148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8523086489-291535254",
+                "intensity": 2278.0508157580921,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.82567,
+                        -1.2994148
+                    ],
+                    [
+                        36.8258451,
+                        -1.2993703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291535254-6330678290",
+                "intensity": 2278.0508157580921,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8258451,
+                        -1.2993703
+                    ],
+                    [
+                        36.8260578,
+                        -1.2993135
+                    ],
+                    [
+                        36.8263275,
+                        -1.2992434
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291535642-6370203190",
+                "intensity": 2278.0508157580921,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8263275,
+                        -1.2992434
+                    ],
+                    [
+                        36.8267425,
+                        -1.2991219
+                    ],
+                    [
+                        36.827004,
+                        -1.2990381
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291535256-6395898890",
+                "intensity": 2200.1562810238311,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.827004,
+                        -1.2990381
+                    ],
+                    [
+                        36.8272549,
+                        -1.2989137
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6395898890-30498661",
+                "intensity": 2191.0223025276841,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8272549,
+                        -1.2989137
+                    ],
+                    [
+                        36.8274151,
+                        -1.2988343
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1584570845-291535853",
+                "intensity": 1702.6058859029779,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8212425,
+                        -1.2994937
+                    ],
+                    [
+                        36.821888,
+                        -1.2996251
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291535853-6164233222",
+                "intensity": 1722.9580762820617,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.821888,
+                        -1.2996251
+                    ],
+                    [
+                        36.8225324,
+                        -1.2997782
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6164233222-983955804",
+                "intensity": 1805.2835750749618,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8225324,
+                        -1.2997782
+                    ],
+                    [
+                        36.8226876,
+                        -1.2998124
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "983955804-9620920588",
+                "intensity": 1890.7833568791273,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8226876,
+                        -1.2998124
+                    ],
+                    [
+                        36.8227354,
+                        -1.2998249
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "260359240-6376083386",
+                "intensity": 3794.2249711139279,
+                "score": 4,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8017356,
+                        -1.2647452
+                    ],
+                    [
+                        36.8017323,
+                        -1.2647861
+                    ],
+                    [
+                        36.8017242,
+                        -1.2648069
+                    ],
+                    [
+                        36.8017074,
+                        -1.2648284
+                    ],
+                    [
+                        36.8016323,
+                        -1.2649078
+                    ],
+                    [
+                        36.801428,
+                        -1.2650883
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8594352886-11549042212",
+                "intensity": 31.158200944243415,
+                "score": 1,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8366192,
+                        -1.3267973
+                    ],
+                    [
+                        36.8368149,
+                        -1.3267045
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8502289022-8502289024",
+                "intensity": 3794.2249711139243,
+                "score": 4,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.801428,
+                        -1.2650883
+                    ],
+                    [
+                        36.8013725,
+                        -1.2651373
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8502289024-4264626099",
+                "intensity": 3794.2249711139257,
+                "score": 4,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8013725,
+                        -1.2651373
+                    ],
+                    [
+                        36.8012807,
+                        -1.2652184
+                    ],
+                    [
+                        36.8010632,
+                        -1.265397
+                    ],
+                    [
+                        36.800994,
+                        -1.2654605
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "4264626106-4264625857",
+                "intensity": 3530.5761761851545,
+                "score": 4,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.800994,
+                        -1.2654605
+                    ],
+                    [
+                        36.800933,
+                        -1.2655216
+                    ],
+                    [
+                        36.8008793,
+                        -1.2656064
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "30092022-9132253280",
+                "intensity": 363.39135600587855,
+                "score": 3,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7987463,
+                        -1.2987264
+                    ],
+                    [
+                        36.7987477,
+                        -1.298779
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "9132253280-30092023",
+                "intensity": 363.39135600587889,
+                "score": 3,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7987477,
+                        -1.298779
+                    ],
+                    [
+                        36.7987525,
+                        -1.2989653
+                    ],
+                    [
+                        36.7987472,
+                        -1.2992502
+                    ],
+                    [
+                        36.7987807,
+                        -1.2995533
+                    ],
+                    [
+                        36.798815,
+                        -1.2997745
+                    ],
+                    [
+                        36.798913,
+                        -1.3000086
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1325734757-292003156",
+                "intensity": 332.66463244651777,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.798913,
+                        -1.3000086
+                    ],
+                    [
+                        36.799106,
+                        -1.3004921
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "292003156-1325734709",
+                "intensity": 249.63725589450789,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.799106,
+                        -1.3004921
+                    ],
+                    [
+                        36.7991888,
+                        -1.300703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1325734709-291537614",
+                "intensity": 249.63725589450817,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7991888,
+                        -1.300703
+                    ],
+                    [
+                        36.7992313,
+                        -1.3007439
+                    ],
+                    [
+                        36.7995129,
+                        -1.3010737
+                    ],
+                    [
+                        36.7999308,
+                        -1.3015164
+                    ],
+                    [
+                        36.8001379,
+                        -1.3016636
+                    ],
+                    [
+                        36.800255,
+                        -1.3017116
+                    ],
+                    [
+                        36.8004034,
+                        -1.3017468
+                    ],
+                    [
+                        36.8005152,
+                        -1.3017612
+                    ],
+                    [
+                        36.800538,
+                        -1.3017606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8508900583-291537621",
+                "intensity": 224.82925624905931,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.800538,
+                        -1.3017606
+                    ],
+                    [
+                        36.8006663,
+                        -1.3017575
+                    ],
+                    [
+                        36.8008894,
+                        -1.3017317
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6371362668-291537622",
+                "intensity": 215.82114121169369,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8008894,
+                        -1.3017317
+                    ],
+                    [
+                        36.8011384,
+                        -1.3016878
+                    ],
+                    [
+                        36.801428,
+                        -1.3016227
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291535935-2145474338",
+                "intensity": 389.06088789248088,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8301722,
+                        -1.3002851
+                    ],
+                    [
+                        36.8306841,
+                        -1.301247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "2145474338-280796537",
+                "intensity": 412.75276721262702,
+                "score": 3,
+                "hwtype": "tertiary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8306841,
+                        -1.301247
+                    ],
+                    [
+                        36.8312087,
+                        -1.3023104
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6370050915-6595413045",
+                "intensity": 2303.8885846931594,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8491634,
+                        -1.3110683
+                    ],
+                    [
+                        36.8490934,
+                        -1.3110861
+                    ],
+                    [
+                        36.8490297,
+                        -1.3110908
+                    ],
+                    [
+                        36.8489539,
+                        -1.3110834
+                    ],
+                    [
+                        36.8488037,
+                        -1.3110392
+                    ],
+                    [
+                        36.8483021,
+                        -1.3108615
+                    ],
+                    [
+                        36.8479823,
+                        -1.3107556
+                    ],
+                    [
+                        36.8478468,
+                        -1.3106993
+                    ],
+                    [
+                        36.847763,
+                        -1.3106557
+                    ],
+                    [
+                        36.8476973,
+                        -1.3106115
+                    ],
+                    [
+                        36.8474358,
+                        -1.3104385
+                    ],
+                    [
+                        36.8471548,
+                        -1.3102455
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "8574690013-6595413041",
+                "intensity": 2306.8696382963594,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8471548,
+                        -1.3102455
+                    ],
+                    [
+                        36.8468249,
+                        -1.3100149
+                    ],
+                    [
+                        36.846418,
+                        -1.3097273
+                    ],
+                    [
+                        36.8455876,
+                        -1.3091647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291748895-268652707",
+                "intensity": 2304.4499443368654,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8455876,
+                        -1.3091647
+                    ],
+                    [
+                        36.8453795,
+                        -1.3090237
+                    ],
+                    [
+                        36.845258,
+                        -1.3089395
+                    ],
+                    [
+                        36.8448157,
+                        -1.3086213
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "1666899583-6364355037",
+                "intensity": 2306.8113075277029,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8448157,
+                        -1.3086213
+                    ],
+                    [
+                        36.8444275,
+                        -1.3083643
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6364355037-291748897",
+                "intensity": 2285.8574293904539,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8444275,
+                        -1.3083643
+                    ],
+                    [
+                        36.8442376,
+                        -1.3082327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "291748897-280785792",
+                "intensity": 2284.9909855815254,
+                "score": 3,
+                "hwtype": "secondary",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8442376,
+                        -1.3082327
+                    ],
+                    [
+                        36.8438593,
+                        -1.3079706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "6029532340-6029496489",
+                "intensity": 9204.7231010393461,
+                "score": 4,
+                "hwtype": "primary",
+                "width": "2LANE",
+                "numlanes": 2
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.8975599,
+                        -1.3201683
+                    ],
+                    [
+                        36.8976293,
+                        -1.320274
+                    ],
+                    [
+                        36.8977694,
+                        -1.3204861
+                    ],
+                    [
+                        36.8980095,
+                        -1.3208454
+                    ],
+                    [
+                        36.8981268,
+                        -1.3210298
+                    ],
+                    [
+                        36.8983018,
+                        -1.3212765
+                    ],
+                    [
+                        36.8984869,
+                        -1.3215554
+                    ],
+                    [
+                        36.8987283,
+                        -1.3219214
+                    ],
+                    [
+                        36.8988999,
+                        -1.3222403
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "track_id": "9132096653-5783232066",
+                "intensity": 164.47892182142692,
+                "score": 2,
+                "hwtype": "residential",
+                "width": "2LANE",
+                "numlanes": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.7983589,
+                        -1.2985677
+                    ],
+                    [
+                        36.7983775,
+                        -1.2986659
+                    ]
+                ]
+            }
+        }
+    ]
+}
