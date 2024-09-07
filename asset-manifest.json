@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuende-data-viewer/static/css/main.fe83fda9.css",
+    "main.js": "/cuende-data-viewer/static/js/main.f8678aa7.js",
+    "index.html": "/cuende-data-viewer/index.html",
+    "main.fe83fda9.css.map": "/cuende-data-viewer/static/css/main.fe83fda9.css.map",
+    "main.f8678aa7.js.map": "/cuende-data-viewer/static/js/main.f8678aa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe83fda9.css",
+    "static/js/main.f8678aa7.js"
+  ]
+}
