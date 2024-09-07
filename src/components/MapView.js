@@ -5,7 +5,6 @@ import { Tile as TileLayer, Vector as VectorLayer } from 'ol/layer';
 import { OSM, Vector as VectorSource } from 'ol/source';
 import GeoJSON from 'ol/format/GeoJSON';
 import { Style, Stroke, Fill } from 'ol/style';
-import { fromLonLat } from 'ol/proj';
 import { getColor, getWidth } from './MapUtils';
 
 const MapView = forwardRef(({ geojsonData, isGrayscale, onSelectFeature, popupElement, selectedRoad }, ref) => {
